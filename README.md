@@ -12,3 +12,10 @@ The application we have decided to develop is a travel booking program that allo
 * Promotional Website - 24 February 2017 
 * Group Presentation/Demo - 16 March 2017 
 * Portfolio Assessment - 24 March 2017 
+
+## Project Progress:
+![alt tag](https://github.com/BrunelCS/CS2001_Coursework_2016-17_-_Team_23/blob/master/Process%20Phase/analysis80.png)
+![alt tag](https://github.com/BrunelCS/CS2001_Coursework_2016-17_-_Team_23/blob/master/Process%20Phase/design70.png)
+![alt tag](https://github.com/BrunelCS/CS2001_Coursework_2016-17_-_Team_23/blob/master/Process%20Phase/implemen5.png)
+![alt tag](https://github.com/BrunelCS/CS2001_Coursework_2016-17_-_Team_23/blob/master/Process%20Phase/testing0.png)
+![alt tag](https://github.com/BrunelCS/CS2001_Coursework_2016-17_-_Team_23/blob/master/Process%20Phase/deployment0.png)
