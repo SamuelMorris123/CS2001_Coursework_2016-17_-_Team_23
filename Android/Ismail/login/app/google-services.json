@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "330645266008",
+    "firebase_url": "https://login-b3ca0.firebaseio.com",
+    "project_id": "login-b3ca0",
+    "storage_bucket": "login-b3ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330645266008:android:ce28846b17ae8a3f",
+        "android_client_info": {
+          "package_name": "com.example.ismail1.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330645266008-btjnb60at1bhek00mg42jcl19tmh72b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rUUotCPnNBvOj_DuzwyAVfD7zk3oRoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
